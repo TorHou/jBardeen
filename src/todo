@@ -1,0 +1,72 @@
+voltage: -0.05 V
+WAVECAR-Length: 5220480
+spins1
+version: 45200.0
+latticevector 22.2291
+volumeAngst 13823.225089404674
+phi12: 90.0
+Trial: 125
+Trial: 99
+Trial: 98
+Name: /home/thouwaar/CalculateSTMs/CoTPPCuCTip_Far/WAVECAR
+version: 45200.0
+k-Points: 1.0	bands: 2340
+enMax: 300	spin: 1
+WAVECAR Record-Length: 5220480
+a1: 28.23	0.00	0.00
+a2: 0.00	22.23	0.00
+a3: 0.00	0.00	22.02
+b1: 0.0354	0.0000	0.0000
+b2: 0.0000	0.0450	0.0000
+b3: 0.0000	0.0000	0.0454
+volume [Angstrom]: 13823.225089404674
+nb1Max: 251
+nb2Max: 198
+nb3Max: 196
+ng1: 126
+ng2: 100
+ng3: 98
+Number of plane waves: 0	spin: 1
+K-Points: 0.0	0.0	[D@13caecd
+
+126
+100
+nrPlaneWaves: 163139
+calculated Planewaves: 40457005
+read Planewaves: 163139
+
+voltage: -0.05 V
+WAVECAR-Length: 5220480
+spins1
+version: 45200.0
+Trial: 120
+Trial: 96
+Trial: 96
+Name: /home/thouwaar/CalculateSTMs/CoTPPCuCTip_Far/WAVECAR
+version: 45200.0
+k-Points: 1.0	bands: 2340
+enMax: 300	spin: 1
+WAVECAR Record-Length: 5220480
+a1: 28.23	0.00	0.00
+a2: 0.00	22.23	0.00
+a3: 0.00	0.00	22.02
+b1: 0.2225	0.0000	0.0000
+b2: 0.0000	-0.2827	0.0000
+b3: 0.0000	0.0000	0.2853
+volume [Angstrom]: 13823.225089404674
+nb1Max: 40
+nb2Max: 32
+nb3Max: 32
+ng1: 120
+ng2: 96
+ng3: 96
+Number of plane waves: 0	spin: 1
+K-Points: 0.0	0.0	[D@f84386
+
+120
+96
+nrPlaneWaves: 163139
+k-Point: 1, Spin-component: 1
+Reading coefficients from file: /home/thouwaar/CalculateSTMs/CoTPPCuCTip_Far/coefficients-k1spin1surfaceZ61tipZ79
+If you want to calculate the coefficients from scratch delete the file: /home/thouwaar/CalculateSTMs/CoTPPCuCTip_Far/coefficients-k1spin1surfaceZ61tipZ79
+Reading coefficients from file 
